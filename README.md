@@ -1,4 +1,4 @@
-# Clase_genomica_funcional
+# Evidence 1
 
 1. Quality Control and exploratory analysis
 Coffe_PCA.R: Performs principal component analysis (PCA) to assess sample clustering and identify potential outliers.
